@@ -1,0 +1,13 @@
+duckdb
+pandas
+torch
+torchvision
+torchaudio
+torchtext
+transformers
+sentencepiece
+pytorch-lightning
+tqdm
+scikit-learn
+python-Levenshtein
+notebook
